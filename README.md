@@ -21,7 +21,7 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/vikas-sheoran-b054b0170/), C
 - 🌱 I’m currently learning **Algorithm problem solving**
 - 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/vikas-sheoran-b054b0170/)
 - 👨‍💻 All of my projects are available at: [@kkviks](https://github.com/kkviks)
-- 📫 Publications: [Facial Demographics](http://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
+- 📫 Publication: [Deep Learning](http://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
 - ⚡ Words of Wisdom: Consistency = Superpower 
 
 ## Languages and Tools:
@@ -52,6 +52,10 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/vikas-sheoran-b054b0170/), C
   
  <a href="https://html.com/html5/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+  
+   <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="cplusplus" width="40" height="40"/>
 </a>
   
  <a href="https://git-scm.com/" target="_blank"> 
