@@ -1,4 +1,4 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Vikas Sheoran here!.
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Vikas Sheoran here!
 
 <a href="https://www.linkedin.com/in/vikas-sheoran-b054b0170/">
   <img align="left" alt="Vikas Sheoran | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
