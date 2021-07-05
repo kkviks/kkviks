@@ -1,6 +1,6 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Vikas Sheoran here!
 
-<a href="https://www.linkedin.com/in/vikas-sheoran-b054b0170/">
+<a href="https://www.linkedin.com/in/kkviks//">
   <img align="left" alt="Vikas Sheoran | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -13,13 +13,13 @@
 
 <br />
 
-Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/vikas-sheoran-b054b0170/), Computer Science and Economics Undergrad at BITS Pilani.
+Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science and Economics Undergrad at BITS Pilani.
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
   
 - 🔭 I’m currently working on : ↓
 - 🌱 I’m currently learning **Algorithms**
-- 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/vikas-sheoran-b054b0170/)
+- 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/kkviks/)
 - 👨‍💻 All of my projects are available at: [@kkviks](https://github.com/kkviks)
 - 📫 Publication: [Deep Learning](http://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
 - ⚡ Words of Wisdom: Consistency = Superpower 
