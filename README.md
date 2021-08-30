@@ -17,7 +17,7 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
   
-- 🔭 I’m currently working on : 
+- 🔭 Hit me : [Portfolio](https://kkviks.netlify.app/)
 - 🌱 I’m currently learning : Go, Kotlin, NLP, Sys Design  
 - 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/kkviks/)
 - 👨‍💻 All of my projects are available at: [@kkviks](https://github.com/kkviks)
