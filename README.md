@@ -18,11 +18,11 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
   
 - 🔭 Website : [Portfolio](https://kkviks.netlify.app/)
-- 🌱 I’m currently learning : Go, Sys Design  
+- 🌱 I’m currently learning : Nothin ;-; 
 - 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/kkviks/)
 - 👨‍💻 All of my projects are available at: [@kkviks](https://github.com/kkviks)
 - 📫 Publication: [Deep Learning](http://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
-- ⚡ Words of Wisdom: Consistency = Superpower 
+- ⚡ Words of Wisdom: Sab Moh Maya hai
 
 ## Languages and Tools:
 
