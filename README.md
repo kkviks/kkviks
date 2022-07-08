@@ -1,28 +1,10 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Vikas Sheoran here!
+Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science and Economics Undergrad at BITS Pilani, Hyderabad campus.
 
-<a href="https://www.linkedin.com/in/kkviks//">
-  <img align="left" alt="Vikas Sheoran | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
 
-<a href="https://www.stopstalk.com/user/profile/Vikas_Sheoran">
-  <img align="left" alt="Vikas Sheoran | StopStalk" width="22px" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" />
-</a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/kkviks/kkviks)](https://github.com/kkviks/kkviks?color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/kkviks?color=red)
 
-<br />
-
-Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science and Economics Undergrad at BITS Pilani.
-
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
-  
-- 🔭 Website : [Portfolio](https://kkviks.netlify.app/)
-- 🌱 I’m currently learning : Nothing ;-; 
-- 📫 How to reach me: [@kkviks](https://www.linkedin.com/in/kkviks/)
-- 👨‍💻 All of my projects are available at: [@kkviks](https://github.com/kkviks)
-- 📫 Publication: [Deep Learning](http://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
-- ⚡ Words of Wisdom: 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkviks&show_icons=true&locale=en" alt="kkviks" /></p>
 
 ## Languages and Tools:
 
@@ -73,8 +55,3 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
 
 
 </p>
-<!-- TODO-IST:END -->
-
-## 📈 My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkviks&show_icons=true&locale=en" alt="kkviks" /></p>
