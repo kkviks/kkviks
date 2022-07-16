@@ -5,7 +5,6 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
 [![MasterHead](https://images.wallpapersden.com/image/download/alone-hd-space_bWdpam6UmZqaraWkpJRmbmdlrWZnZWU.jpg)](https://github.com/kkviks)
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkviks&show_icons=true&locale=en" alt="kkviks" /></p>
 
 ## Languages and Tools: 
 
