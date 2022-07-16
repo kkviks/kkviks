@@ -4,14 +4,12 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
 
 [![MasterHead](https://images.wallpapersden.com/image/download/alone-hd-space_bWdpam6UmZqaraWkpJRmbmdlrWZnZWU.jpg)](https://github.com/kkviks)
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kkviks&" alt="kkviks" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkviks&show_icons=true&locale=en" alt="kkviks" /></p>
 
-## Languages and Tools:
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkviks&show_icons=true&locale=en" alt="kkviks" /></p>
+
+## Languages and Tools: 
 
 <p align="left">
-
-
 <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
@@ -54,10 +52,12 @@ Hi, I'm [Vikas Sheoran](https://www.linkedin.com/in/kkviks/), Computer Science a
 </a>
   </p>
   
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <a href="https://www.linkedin.com/in/kkviks/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kkviks/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
+## Random Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
