@@ -1,4 +1,4 @@
-## Quote of the hour:
+## Quote of the hour
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
